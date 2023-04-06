@@ -19,4 +19,4 @@ Folarin Shola is a Ph.D. student in Applied Physics at University of South Flori
 * Monte Carlo 
 
 
-## Here is my [Google Scholar](https://scholar.google.com/citations?hl=en&user=PZkmwD0AAAAJ)
+## Here is my [google scholar](https://scholar.google.com/citations?hl=en&user=PZkmwD0AAAAJ)
